@@ -44,6 +44,7 @@ Alliance Ngoy Muya
 - [Lokesh Khodke](https://github.com/Lokesh0652H)
 - [Ezekiel Matthew Abana](https://github.com/devFiend)
 - [LongTengxu](https://github.com/LongTengxu) - Hello!!
+- [GADI V V LALITHA JAHNAVI ](https://github.com/lalithagadi2007-prog) - My first open-source contribution!!!- System.out.println("Let's Go!, Small Step Every Day");
 - [Suhaan Khan](https://github.com/suhaankhan) - HI lol
 - [Kuldeep-Sharma](https://github.com/Kuldeep-Sharmaa) - console.log("Hello World");
 - [Logendra Prabhu](https://github.com/Logendra-07)
